@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Data Science at Bloomtech
 - 👯 I’m looking to collaborate on any projects 
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/maria-georgiou-ds/ 
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/maria-mccluskey-ds/
 
 <!--
 **MariaGeorgiou/MariaGeorgiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
