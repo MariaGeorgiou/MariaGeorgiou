@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science at Bloomtech
+- 🌱 I’ve recently completed the Data Science Program at Bloomtech
+- 🔭 I’m currently working on Bandersnatch Monster Lab - a web app that lets users explore and visualize a dataset of fictional monsters, and make predictions using a Random Forest model. Built with Flask, Pandas, Altair, and Scikit-learn, it demonstrates end-to-end data workflow: data handling, interactive visualization, and machine learning.
 - 👯 I’m looking to collaborate on any projects 
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/maria-mccluskey-ds/
 
